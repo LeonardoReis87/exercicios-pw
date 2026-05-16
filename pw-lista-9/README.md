@@ -56,11 +56,10 @@ Localizado na pasta `/land-page`, esta atividade exige um nível maior de fideli
 
 Boa sorte e bons códigos! 💡
 
-```
 
 ### O que foi ajustado para fazer sentido no arquivo principal:
 * **Mapa do Repositório:** Adicionei uma representação visual das pastas (`├──`) para que o aluno entenda de cara que o projeto está dividido.
 * **Links Relativos:** Coloquei links diretos (`./calculadora/README.md`) para que, se o aluno clicar no texto, o próprio GitHub já o direcione para a pasta da atividade.
 * **Destaque das Regras:** Mantive a proibição de frameworks e o foco nos conceitos que você determinou para cada uma.
 
-```
+
