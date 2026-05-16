@@ -55,6 +55,7 @@ Localizado na pasta `/land-page`, esta atividade exige um nível maior de fideli
 3. **Boas Práticas:** Código limpo e bem identado. Comentários explicando a lógica do CSS são sempre bem-vindos!
 
 Boa sorte e bons códigos! 💡
+>**Segue os Repositorios 👉** [clone de calculadora](./pw-lista-9/calculadora/README.md) e [clone landing-page](./pw-lista-9/land-page/README.md)
 
 
 ### O que foi ajustado para fazer sentido no arquivo principal:
