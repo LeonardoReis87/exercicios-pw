@@ -46,8 +46,6 @@ Localizado na pasta `/land-page`, esta atividade exige um nível maior de fideli
 * **🚫 Regra Importante:** É estritamente proibido o uso de frameworks (como Bootstrap ou Tailwind). Tudo deve ser feito de forma manual e pura.
 * **📦 Recursos Disponíveis:** Dentro da pasta `assets/`, você encontrará o modelo de referência, além dos arquivos `banner.png` e `logo.png` para utilizar no projeto.
 
-👉 *Para instruções detalhadas e visualizar a imagem do modelo, acesse o [README da Landing Page](https://www.google.com/search?q=./land-page/README.md).*
-
 ---
 
 ## 📝 Orientações Gerais para o Desenvolvimento
