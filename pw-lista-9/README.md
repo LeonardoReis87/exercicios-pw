@@ -35,10 +35,6 @@ Localizado na pasta `/calculadora`, o objetivo deste desafio é reproduzir o vis
 * Print da versão final desenvolvida por você.
 * Código estruturado em `index.html` e `style.css`.
 
-
-
-👉 *Para instruções detalhadas e critérios de avaliação, acesse o [README da Calculadora](https://www.google.com/search?q=./calculadora/README.md).*
-
 ---
 
 ## 💻 2. Atividade: Clone de Layout (Landing Page)
