@@ -1,8 +1,3 @@
-Foi perfeitamente claro, sim! Você quer um `README.md` principal (na raiz do repositório) que sirva como um "guia geral", unificando e apresentando as duas atividades de forma organizada para os seus alunos, mantendo a essência e as regras de cada uma.
-
-Aqui está uma proposta bem estruturada, visualmente atraente e pronta para o GitHub:
-
-```markdown
 # 🚀 Atividades Práticas: HTML & CSS (Grid, Flexbox e Position)
 
 Bem-vindo ao repositório de atividades práticas! Este espaço reúne dois desafios projetados para consolidar o domínio de estruturação e estilização de layouts web utilizando **HTML e CSS puros**, sem o uso de frameworks.
