@@ -81,12 +81,4 @@ Após incluir o link do CDN no head, basta copiar a tag `<i>` do ícone desejado
 
 ```
 
-```
-
-### O que muda com essa adição:
-* **Praticidade:** O aluno não precisa "adivinhar" qual CDN usar, evitando que usem a versão 5 com classes da versão 6 (o que sempre quebra os ícones).
-* **Foco no Layout:** Linkando direto para a busca da `free-collection`, eles não correm o risco de tentar usar um ícone *Pro* (pago) que ficaria invisível ou com marca d'água no projeto deles.
-
-```
-
 Boa sorte e bons códigos! 💡
