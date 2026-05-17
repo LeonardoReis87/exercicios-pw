@@ -31,7 +31,8 @@ O objetivo desta atividade é desenvolver um layout **estático**, o mais fiel p
 - Utilize cores, espaçamentos, alinhamentos e fontes semelhantes ao modelo;
 - O botão deve ter aparência e posicionamento similar ao original;
 - A imagem lateral pode ser substituída por outra parecida, caso não consiga recortar a exata;
-- O texto pode ser simulado com `Lorem Ipsum`.
+- O texto pode ser simulado com `Lorem Ipsum`;
+
 
 ---
 
@@ -47,6 +48,45 @@ O objetivo desta atividade é desenvolver um layout **estático**, o mais fiel p
 
 ## 🚀 Dica Final
 
-Olhe com atenção os alinhamentos, os espaçamentos e as proporções do layout. Seu desafio é demonstrar domínio visual e técnico sobre o que foi ensinado.
+
+---
+
+## 🎨 Uso de Ícones (Font Awesome)
+
+Para os elementos visuais que necessitam de ícones (como redes sociais, botões, etc.), utilize a biblioteca **Font Awesome (Versão 6 Free)**. 
+
+### 1. Como incluir no seu projeto
+Adicione a tag `link` abaixo dentro do `<head>` do seu arquivo `index.html`:
+
+```html
+<link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css)" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+```
+
+### 2. Onde encontrar os ícones
+
+Você pode pesquisar os ícones gratuitos diretamente no catálogo oficial da versão 6:
+🔗 [Buscar Ícones no Font Awesome v6 (Free Collection)](https://fontawesome.com/v6/search?ic=free-collection)
+
+### 3. Exemplo de uso no HTML
+
+Após incluir o link do CDN no head, basta copiar a tag `<i>` do ícone desejado, por exemplo:
+
+```html
+<!-- Exemplo de ícone de seta para um botão -->
+<button>Saiba Mais <i class="fa-solid fa-arrow-right"></i></button>
+
+<!-- Exemplo de ícone de rede social -->
+<a href="#"><i class="fa-brands fa-instagram"></i></a>
+
+```
+
+```
+
+### O que muda com essa adição:
+* **Praticidade:** O aluno não precisa "adivinhar" qual CDN usar, evitando que usem a versão 5 com classes da versão 6 (o que sempre quebra os ícones).
+* **Foco no Layout:** Linkando direto para a busca da `free-collection`, eles não correm o risco de tentar usar um ícone *Pro* (pago) que ficaria invisível ou com marca d'água no projeto deles.
+
+```
 
 Boa sorte e bons códigos! 💡
