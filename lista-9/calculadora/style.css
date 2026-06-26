@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.calculadora {
+    width: 320px;
+    background: #5f5d5d;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.texto {
+    padding: 20px;
+    color: white;
+}
+
+.texto h1 {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.numero {
+    height: 120px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+}
+
+.numero p {
+    color: white;
+    font-size: 4rem;
+}
+
+.botoes {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2px;
+}
+
+.botoes button {
+    height: 70px;
+    border: none;
+    background: #3d3939;
+    color: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.igual {
+    background: #0e88cf !important;
+    color: black !important;
+}

@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: #35018a;
+    color: white;
+    min-height: 100vh;
+    padding: 40px 60px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 250px;
+    height: auto;
+    display: block;
+}
+
+.logo h2 {
+    font-size: 1.8rem;
+}
+
+nav {
+    display: flex;
+    gap: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.botao {
+    border: none;
+    background: white;
+    color: #000000;
+    padding: 15px 30px;
+    border-radius: 50px;
+    font-size: 1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.principal {
+    background: #4615a1;
+    border-radius: 30px;
+    padding: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: center;
+}
+
+.seção {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.hashtag {
+    background: #bca5ff;
+    color: #2d0f63;
+    width: max-content;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: 600;
+}
+
+.seção h1 {
+    font-size: 3rem;
+    line-height: 1.1;
+    max-width: 500px;
+}
+
+.seção p {
+    color: #e6e4e4;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    max-width: 520px;
+}
+
+.botao2 {
+    width: 300px;
+    height: 70px;
+    border: none;
+    border-radius: 50px;
+    background: white;
+    color: #000000;
+    font-size: 1.2rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 35px;
+    padding-right: 6px;
+}
+
+.circulo {
+    width: 58px;
+    height: 58px;
+    background: #140032;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner img {
+    width: 100%;
+    max-width: 520px;
+    border-radius: 100px;
+}
+
